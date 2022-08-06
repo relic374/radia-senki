@@ -1,0 +1,18 @@
+
+
+PPU Addresses
+
+$2401     Start of characters for the HUD
+$23C0     Attr Addr
+$EFCD     Pallete data
+$2000     Start of tile addresses
+$2FBF     End of tile addresses
+
+| $2000-$25FF Never on screen, junk area 1
+| $2B00-$2FBF Never on screen, junk area 2
+| ^^^ Used as space for HUD ^^^
+| $2200-$2EFF Scroll space, visible
+
+
+
+
