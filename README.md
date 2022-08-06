@@ -19,5 +19,5 @@ Now, to compile:
 
 This should spit out a .nes rom file which can be ran using the emulator or everdrive or your choice!
 
-Thanks for viewing!
+Thanks!
 (Ripped by Relic374)
