@@ -21,3 +21,4 @@ This should spit out a .nes rom file which can be ran using the emulator or ever
 
 Thanks!
 (Ripped by Relic374)
+All code belongs to it's respective owners
